@@ -1,7 +1,17 @@
 # CODETECH-task-4
 
 
+Name:SOHAM DHUMAL
 
+Company:CODETECH IT SOLLUTION
+
+ID:CT08EGN
+
+Domain:POWER BI
+
+Duration:Dec17 to Jan 17
+
+Mentor:Neela Santosh Kumar
 Project Title: Advanced Data Analysis and Visualization in Power BI using Python and R
 
 
